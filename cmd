@@ -1,1 +1,1 @@
-wmic useraccount get name,sid
+>wmic useraccount get name,sid
